@@ -4,6 +4,8 @@ This HyperLoop module allows you to implement fingerprint recognition in your An
 
 This module was originally posted on LoopModules: https://loopmodules.com/downloads/ti-reprint-fingerprint-recognition/
 
+![alt text](https://i2.wp.com/loopmodules.com/wp-content/uploads/edd/2017/01/2017-01-13-10_13_09.gif?resize=292%2C519&ssl=1)
+
 # Usage
   1 – First of all, start by declaring the USE_FINGERPRINT permission in your Android manifest file.
 
